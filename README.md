@@ -6,12 +6,12 @@
 
 <hr>
 
-## 📝 Descrição
+# 📝 Descrição
 
 Projeto desenvolvido com o Curso: <b>"HTML e CSS: responsividade com mobile-first"<b> da <a href="https://www.alura.com.br">Alura<a/>. Orientado pela <a href="https://github.com/MonicaHillman">Monica Hillman</a>, esse curso faz faz parte da formação Front-End, e tem o objetivo de aprender mais sobre como usar <i>media queries</i> na construção de layouts responsivos.
 <br><li><a href="https://alurabooks-eight-iota.vercel.app"> Versão atual do projeto</a> 🖥
 
-## 💻 Tecnologias:
+# 💻 Tecnologias:
 
 Projeto desenvolvido utilizando as seguintes tecnologias:
 
@@ -40,5 +40,6 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 👨🏻‍💻 Desenvolvedor:
-<p> <img src="https://github.com/filipe-oliveiradev/aluraplus/assets/157177590/2f71879e-d9b9-4cb2-b89d-81586805a738" alt="Contatos do Filipe Oliveira"></p>
+# 👨🏻‍💻 Desenvolvedor:
+<a target="_blank" href="https://www.linkedin.com/in/filipeoliveiradasilva/">
+<img src="https://github.com/filipe-oliveiradev/aluraplus/assets/157177590/2f71879e-d9b9-4cb2-b89d-81586805a738" alt="Contatos do Filipe Oliveira"></a>
